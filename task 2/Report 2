@@ -1,5 +1,0 @@
-I created my professional online presence by setting up profiles on GitHub, LinkedIn, and Kaggle, along with designing a personalized GitHub README. These platforms helps the user showcase their skills, projects, and interests in a structured and accessible way.
-
-My work focuses on building a strong digital identity. On GitHub, I created repositories and a README file that highlights my skills, tools, and projects in a clean and organized format. My LinkedIn profile presents my academic background/my current interests, achievements, and career goals, making it easier to connect with others professionally. Kaggle on the other hand provides a "playground" to practice with real datasets and join competitions, which adds instant credibility to your portfolio.
-
-One thing I found challenging was getting familiar with somewhat branching interface of github. However, it was also interesting to explore how different platforms serve different purposes and how they can be combined to build a strong and effective online presence.
