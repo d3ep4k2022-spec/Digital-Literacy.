@@ -41,7 +41,7 @@ Throughout my four years at VIT Bhopal, I will use GitHub to document my version
 Task 3: Explore Coding and Collaboration Platforms
 Summary: I practiced coding through beginner challenges and created a collaborative quiz using Google Forms.
 
-Folder Link: 
+Folder Link: https://github.com/d3ep4k2022-spec/Digital-Literacy./tree/main/task-3-platforms
 Google Form Link: Digital Literacy Quiz
 
 Project Report: I completed beginner C++ challenges on HackerRank, which allowed me to test logic and syntax efficiently. Additionally, I developed a Digital Literacy Awareness Quiz using Google Forms to gauge peer understanding. These tools are vital for my CDS specialization; HackerRank strengthens my foundation in Discrete Mathematics, while Google Workspace tools streamline data collection and group project management.
@@ -49,14 +49,14 @@ Project Report: I completed beginner C++ challenges on HackerRank, which allowed
 Task 4: Draft a Professional Email and Etiquette Guide
 Summary: I wrote sample professional emails and created a checklist for responsible online behavior.
 
-Folder Link: task-4-email-etiquette/
+Folder Link: https://github.com/d3ep4k2022-spec/Digital-Literacy./tree/main/task-4-email-etiquette
 
 Project Report: Poor communication can lead to missed academic and professional opportunities. For instance, a student requesting an assignment extension with an informal tone or vague subject line often faces delays or rejection. By utilizing clear subject lines and a formal structure, I’ve learned how to demonstrate respect for the recipient’s time and improve overall response rates.
 
 Task 5: Cybercrime Awareness Case Study and Prevention Guide
 Summary: I researched a prevalent cybercrime scenario and created a safety checklist specifically for the Indian student community.
 
-Folder Link: task-5-cybercrime/
+Folder Link: https://github.com/d3ep4k2022-spec/Digital-Literacy./tree/main/task-5-cybercrime
 
 Project Report: I conducted a case study on UPI/Online Payment Fraud, specifically the "QR Code Scam."
 
