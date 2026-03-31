@@ -27,7 +27,7 @@ I chose a clean, professional color scheme to prioritize readability. The primar
 Task 2: Build Your Student Digital Portfolio
 Summary: I built a professional digital portfolio across key platforms to support academic and career growth.
 
-Folder Link: 
+Folder Link: https://github.com/d3ep4k2022-spec/Digital-Literacy./tree/main/task-2-portfolio
 
 Project Report: I established profiles on GitHub, LinkedIn, and HackerRank.
 
