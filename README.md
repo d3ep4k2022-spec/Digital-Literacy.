@@ -13,7 +13,7 @@ Task Summaries and Reports
 Task 1: Digital Literacy Awareness Infographic
 Summary: I created an infographic to help classmates understand digital literacy basics. It covers useful tools, safe internet habits, and how to maintain a professional online presence.
 
-Folder Link: task-1-presentation/
+Folder Link: [task-1-presentation/](https://github.com/d3ep4k2022-spec/Digital-Literacy./tree/main/task-1-presentation)
 
 Project Report: I used Canva to design the infographic for its intuitive templates and structured layouts. The content was organized into three core pillars:
 
