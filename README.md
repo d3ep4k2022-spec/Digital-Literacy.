@@ -27,7 +27,7 @@ I chose a clean, professional color scheme to prioritize readability. The primar
 Task 2: Build Your Student Digital Portfolio
 Summary: I built a professional digital portfolio across key platforms to support academic and career growth.
 
-Folder Link: task-2-portfolio/
+Folder Link: 
 
 Project Report: I established profiles on GitHub, LinkedIn, and HackerRank.
 
@@ -41,8 +41,7 @@ Throughout my four years at VIT Bhopal, I will use GitHub to document my version
 Task 3: Explore Coding and Collaboration Platforms
 Summary: I practiced coding through beginner challenges and created a collaborative quiz using Google Forms.
 
-Folder Link: task-3-platforms/
-
+Folder Link: 
 Google Form Link: Digital Literacy Quiz
 
 Project Report: I completed beginner C++ challenges on HackerRank, which allowed me to test logic and syntax efficiently. Additionally, I developed a Digital Literacy Awareness Quiz using Google Forms to gauge peer understanding. These tools are vital for my CDS specialization; HackerRank strengthens my foundation in Discrete Mathematics, while Google Workspace tools streamline data collection and group project management.
